@@ -1,0 +1,21 @@
+.cuerpo{
+	background: #FFF url("../assets/img1.jpg") no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	
+	text-align: center;
+	color: white;
+	padding: 20% 0%;
+	box-sizing: border-box;
+}
+/*Hacer cascada con clases a la larga hacen problemas 
+.cuerpo h1{ 
+		font-size: 50px;
+		text-transform: uppercase;
+		font-weight: 700;
+}
+                                                  */
+.full-height{
+	height: 98%;
+}

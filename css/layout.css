@@ -1,0 +1,36 @@
+/* Cosas del Header y Footer */
+header, footer{
+	background-color: #282828;
+	position: relative;
+	position: fixed;
+	width: 100%;
+	padding: 20px 0px;
+	box-sizing: border-box;
+	color: #C3C1C1;
+}
+header img{
+	width: 250px;
+	display: inline-block;
+}
+/*
+header nav ul li{
+	color: #FFF;
+	display: inline;
+	font-weight: 400;
+}
+
+header nav{
+	display:inline-block;
+}*/
+.layout_a{
+	color: #C3C1C1;
+}
+header{
+	top: 0;
+}
+footer{
+	bottom: 0;
+}
+img{
+	width: 100%;
+}
